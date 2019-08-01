@@ -1,0 +1,5 @@
+[config]
+AccessKeyID = L
+AccessKeySecret = E
+Domain = xxx.xxx
+Records = ["xxx","xxx2"]
